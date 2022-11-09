@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working with Full Stack Wed Development with emphasis on the back end<br>👯‍♀️ I'm currently looking to collaborate on any Node.js/Express.js applications<br>🤝 I'm currently looking for help with Express.js<br>🌱 I'm currently learning Python, Swift, Express.js, and Node.js<br>💬 Ask me about my history as a developer :)<br>⚡️ Fun fact about me: I develop video games with Unreal Engine as a hobby
+🔭 I'm currently working with Full Stack Wed Development with emphasis on the back end<br>👯‍♀️ I'm currently looking to collaborate on any Node.js/Express.js applications<br>🤝 I'm currently looking for help with Swift and Python experience<br>🌱 I'm currently learning Python, Swift, Express.js, and Node.js<br>💬 Ask me about my history as a developer :)<br>⚡️ Fun fact about me: I develop video games with Unreal Engine as a hobby
 
 
 # 💻 Tech Stack:
