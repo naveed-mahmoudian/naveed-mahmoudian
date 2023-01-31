@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working with Full Stack Wed Development<br>👯‍♀️ I'm currently looking to collaborate on full stack web and mobile applications<br>🤝 I'm currently creating a Full Stack Web Dev YouTube tutorial series <br>🌱 I'm always learning new and upcoming technologies<br>💬 Ask me about my history as a developer :)<br>⚡️ Fun fact about me: I develop video games with Unreal Engine as a hobby
+📩 nmahmoudian@gmail.com<br>🖥 [naveedmahmoudian.com](https://naveedmahmoudian.com/)<br>🔭 I'm currently working with Full Stack Wed Development<br>👯‍♀️ I'm currently looking to collaborate on full stack web and mobile applications<br>🤝 I'm currently creating a Full Stack Web Dev YouTube tutorial series <br>🌱 I'm always learning new and upcoming technologies<br>💬 Ask me about my history as a developer :)<br>⚡️ Fun fact about me: I develop video games with Unreal Engine as a hobby
 
 
 # 💻 Tech Stack:
